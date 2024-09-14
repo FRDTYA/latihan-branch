@@ -1,8 +1,7 @@
 # latihan-branch
 
-1.
-  ```bash
-  ini adalah repository untuk latihan branch
+1. Note:
+   ```bash
+   ini adalah repository latihan branch cuy
 
-## Note
-`Repo ini adalah latihan selama stupen Bangkit`
+2. `Repo ini adalah latihan selama stupen Bangkit`
