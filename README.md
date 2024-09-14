@@ -1,2 +1,4 @@
 # latihan-branch
-Repo ini adalah latihan selama stupen Bangkit
+
+## Note
+`Repo ini adalah latihan selama stupen Bangkit`
